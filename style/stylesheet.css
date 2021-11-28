@@ -139,7 +139,7 @@ header h2 {
 }
   
 
-@media screen and (max-width: 600px) {
+@media only screen and (max-device-width: 600px) {
 
     /* header h1 {
         -webkit-background-size: 104px 94px;
