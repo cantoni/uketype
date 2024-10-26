@@ -3,7 +3,7 @@
     <title>Romeo Stevens Series</title>
     <link>https://ukuleletypewriter.com/romeo</link>
     <description>A series of recordings with Romeo Stevens.</description>
-    <itunes:image href="https://ukuleletypewriter.com/fractal-wario.jpeg" />
+    <itunes:image href="https://ukuleletypewriter.com/romeo/fractal-wario.jpeg" />
 
     <!-- Episode 1 -->
     <item>
@@ -11,7 +11,7 @@
       <enclosure url="https://ukuleletypewriter.com/romeo/romeo-stevens-part-1.mp3" length="65902323" type="audio/mpeg" />
       <guid>https://ukuleletypewriter.com/romeo/romeo-stevens-part-1.mp3</guid>
       <pubDate>Sun, 20 Oct 2024 08:33:00 +0000</pubDate>
-      <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
+      <itunes:image href="https://ukuleletypewriter.com/romeo/romeo-art.jpg" />
     </item>
 
     <!-- Episode 2 -->
@@ -20,7 +20,7 @@
       <enclosure url="https://ukuleletypewriter.com/romeo/romeo-stevens-part-2.mp3" length="57769058" type="audio/mpeg" />
       <guid>https://ukuleletypewriter.com/romeo/romeo-stevens-part-2.mp3</guid>
       <pubDate>Sun, 20 Oct 2024 08:34:00 +0000</pubDate>
-      <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
+      <itunes:image href="https://ukuleletypewriter.com/romeo/romeo-art.jpg" />
     </item>
 
     <!-- Episode 3 -->
@@ -29,7 +29,7 @@
       <enclosure url="https://ukuleletypewriter.com/romeo/romeo-stevens-part-3.mp3" length="65163794" type="audio/mpeg" />
       <guid>https://ukuleletypewriter.com/romeo/romeo-stevens-part-3.mp3</guid>
       <pubDate>Sun, 20 Oct 2024 08:35:00 +0000</pubDate>
-      <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
+      <itunes:image href="https://ukuleletypewriter.com/romeo/romeo-art.jpg" />
     </item>
 
     <!-- Episode 4 -->
@@ -38,7 +38,7 @@
       <enclosure url="https://ukuleletypewriter.com/romeo/romeo-stevens-part-4.mp3" length="40706913" type="audio/mpeg" />
       <guid>https://ukuleletypewriter.com/romeo/romeo-stevens-part-4.mp3</guid>
       <pubDate>Sun, 20 Oct 2024 08:36:00 +0000</pubDate>
-      <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
+      <itunes:image href="https://ukuleletypewriter.com/romeo/romeo-art.jpg" />
     </item>
 
   </channel>
