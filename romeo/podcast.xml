@@ -41,6 +41,15 @@
       <pubDate>Sun, 20 Oct 2024 08:36:00 +0000</pubDate>
       <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
     </item>
-    
+
+    <!-- Episode 4 Duplicate -->
+    <item>
+      <title>Romeo Stevens Part 5</title>
+      <enclosure url="https://ukuleletypewriter.com/romeo/romeo-stevens-part-5.mp3" length="40706913" type="audio/mpeg" />
+      <guid>https://ukuleletypewriter.com/romeo/romeo-stevens-part-5.mp3</guid>
+      <pubDate>Sun, 20 Oct 2024 08:37:00 +0000</pubDate>
+      <itunes:image href="https://ukuleletypewriter.com/romeo-art.jpg" />
+    </item>
+
   </channel>
 </rss>
